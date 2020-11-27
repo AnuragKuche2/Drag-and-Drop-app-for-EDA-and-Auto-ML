@@ -2,5 +2,5 @@
 A drag and Drop application for EDA and application different machine Learning algorithms.
 
 to run the application use:
-streamlit run app.py #python file name app.py
+streamlit run app.py #python file name myapp.py
 
